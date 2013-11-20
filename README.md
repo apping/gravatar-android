@@ -3,9 +3,6 @@ gravatar-android
 
 A lightweight Java Gravatar library optimized for Android.
 
-![Gravatar-android sample screenshot](static/gravatar_sample_screenshot.png "Gravatar-android sample screenshot")
-
-
 Usage
 ================
 
